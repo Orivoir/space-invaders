@@ -1,4 +1,12 @@
+# Build output
 /bin/
-/target/
+
+# local config
 /.project
 /.classpath
+
+# hightweight client files
+/src/main/resources/view/assets/
+
+
+/target/
