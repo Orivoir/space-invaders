@@ -6,12 +6,12 @@ public class Main {
         SoloGameRunner gameRunner = new SoloGameRunner();
 
         // Sets the player
-        // gameRunner.setAgent(Solution.class);
+        gameRunner.setAgent(Solution.class);
 
         // Sets a test case
-        // gameRunner.setTestCase("test1.json");
+        gameRunner.setTestCase("test1.json");
 
 
-        // gameRunner.start();
+        gameRunner.start();
     }
 }

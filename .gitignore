@@ -5,8 +5,8 @@
 /.project
 /.classpath
 
-# hightweight client files
-/src/main/resources/view/assets/
-
 
 /target/
+
+# IDE config
+/.idea
